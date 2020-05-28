@@ -171,10 +171,6 @@ function uvIndex(lon, lat) {
 /////
 // RENDER BUTTONS CREATES NEW BUTTONS EACH TIME A CITY IS
 // SEARCHED FOR, AND ASSIGNS INFORMATION TO THE BUTTONS.
-// HOWEVER, IT PRINTS THEM SIDE BY SIDE CURRENTLY,
-// SHOULD WE USE A LIST CARD GROUP TO CREATE THE TOP
-// TO BOTTOM LOOK?
-/////
 
 function renderButtons() {
 	// Deleting the buttons prior to adding new movies
