@@ -1,0 +1,109 @@
+body, h3, h4, p {
+    color: #00203fff;
+    font-family: 'Patua One', cursive;
+}
+
+
+html {
+    height: 100%;
+}
+
+
+body {
+    height: 100%;
+    margin: 0;
+    background-color: #b3cdd1;
+    background-image: linear-gradient(315deg, #b3cdd1 0%, #9fa4c4 74%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.jumbotron {
+    color: white;
+	background: rgb(36,23,0);
+    background: radial-gradient(circle, rgba(36,23,0,1) 0%, rgba(9,9,121,1) 50%, rgba(0,212,255,1) 100%);
+}
+
+
+.r2a {
+	border: 1px solid lightseagreen;
+	border-radius: 0.25rem;
+	padding-left: 1rem;
+}
+
+
+.btn-primary {
+	background-color: lightseagreen;
+}
+
+
+#buttons-view,
+#city-input {
+	margin-top: 1rem;
+	border: 1px solid lightseagreen;
+	border-radius: 0.25rem;
+}
+
+
+.list-group-item {
+    background: rgba(255, 255, 255, 0.4);;
+}
+
+
+.card {
+    background: rgba(255, 255, 255, 0.4);
+    border: 1px solid lightseagreen;
+	border-radius: 0.25rem;
+}
+
+
+.card-body {
+	padding: 0.35rem;
+}
+
+
+.uvGreen {
+	background-color: lightgreen;
+	border-radius: 5px;
+}
+
+
+.uvYellow {
+	background-color: lightyellow;
+	border-radius: 5px;
+}
+
+
+.uvOrange {
+	background-color: lightsalmon;
+	border-radius: 5px;
+}
+
+
+.uvRed {
+	background-color: palevioletred;
+	border-radius: 5px;
+}
+
+
+.uvPurple {
+	background-color: violet;
+	border-radius: 5px;
+}
+
+
+/* img {
+	width: 15%;
+	height: 15%;
+} */
+
+
+.card-text {
+	font-size: 10pt;
+}
+
+
+.forcast {
+	padding: 1rem;
+}
